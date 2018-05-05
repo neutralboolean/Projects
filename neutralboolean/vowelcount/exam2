@@ -1,0 +1,9 @@
+I would recommend reviewing this page on How to Write Go Code
+
+It documents both how to structure your project in a go build friendly way, and also how to write tests. Tests do not need to be a cmd using the main package. They can simply be TestX named functions as part of each package, and then go test will discover them.
+
+The structure suggested in that link in your question is a bit outdated, now with the release of Go 1. You no longer would need to place a pkg directory under src. The only 3 spec-related directories are the 3 in the root of your GOPATH: bin, pkg, src . Underneath src, you can simply place your project mypack, and underneath that is all of your .go files including the mypack_test.go
+
+go build will then build into the root level pkg and bin.
+
+So your GOPATH might look like this:
