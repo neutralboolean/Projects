@@ -24,7 +24,7 @@ Problems are motivated by the ones shared at:
 * [Rosetta Code](http://rosettacode.org/)
 
 ## Table of Contents
-**11** projects completed out of **92**
+**12** projects completed out of **92**
 
 - [Numbers](https://github.com/karan/Projects#numbers)
 - [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
@@ -174,7 +174,7 @@ Networking
 
 Classes
 ---------
-**1** completed out of **10**
+**2** completed out of **10**
 
 - [x] **Product Inventory Project** - Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an *inventory* class which keeps track of various products and can sum up the inventory value.
 
@@ -185,7 +185,7 @@ After you've established an employee hierarchy, create a Company class that allo
 
 - [ ] **Bank Account Manager** - Create a class called Account which will be an abstract class for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Manage credits and debits from these accounts through an ATM style program.
 
-- [ ] **Patient / Doctor Scheduler** - Create a patient class and a doctor class. Have a doctor that can handle multiple patients and setup a scheduling program where a doctor can only handle 16 patients during an 8 hr work day.
+- [x] **Patient / Doctor Scheduler** - Create a patient class and a doctor class. Have a doctor that can handle multiple patients and setup a scheduling program where a doctor can only handle 16 patients during an 8 hr work day.
 
 - [ ] **Recipe Creator and Manager** - Create a recipe class with ingredients and a put them in a recipe manager program that organizes them into categories like deserts, main courses or by ingredients like chicken, beef, soups, pies etc.
 
