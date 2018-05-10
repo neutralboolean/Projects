@@ -24,7 +24,7 @@ Problems are motivated by the ones shared at:
 * [Rosetta Code](http://rosettacode.org/)
 
 ## Table of Contents
-**12** projects completed out of **92**
+**13** projects completed out of **92**
 
 - [Numbers](https://github.com/karan/Projects#numbers)
 - [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
@@ -42,7 +42,7 @@ Problems are motivated by the ones shared at:
 
 Numbers
 ---------
-**4** completed out of **22**
+**5** completed out of **22**
 
 - [x] **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
@@ -70,7 +70,7 @@ Numbers
 
 - [ ] **Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
-- [ ] **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+- [x] **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
 - [ ] **Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
