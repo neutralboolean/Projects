@@ -42,7 +42,7 @@ Problems are motivated by the ones shared at:
 
 Numbers
 ---------
-**5** completed out of **22**
+**6** completed out of **22**
 
 - [x] **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
